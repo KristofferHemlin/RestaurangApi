@@ -1,8 +1,9 @@
 ﻿namespace Api.Models
 {
-    public class Restauranger
+    public class Restaurant
     {
         public int Id { get; set; }
         public string Name { get; set; }
+        public Place Place { get; set; }
     }
 }

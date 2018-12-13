@@ -5,7 +5,7 @@ namespace Api.Data
 {
     public class ApplicationDbContext : DbContext
     {
-        public DbSet<Restauranger> Restauranger { get; set; }
+        public DbSet<Restaurant> Restaurant { get; set; }
 
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
            : base(options)

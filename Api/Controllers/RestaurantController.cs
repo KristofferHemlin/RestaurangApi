@@ -1,6 +1,7 @@
 ﻿using Api.Data;
 using Api.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -9,11 +10,11 @@ using System.Linq;
 namespace Api.Controllers
 {
     [Route("api/[controller]")]
-    public class RestaurangController : Controller
+    public class RestaurantController : Controller
     {
         private readonly ApplicationDbContext _context;
 
-        public RestaurangController(ApplicationDbContext context)
+        public RestaurantController(ApplicationDbContext context)
         {
             _context = context;
         }
@@ -21,9 +22,9 @@ namespace Api.Controllers
 
         // GET: api/<controller>
         [HttpGet]
-        public ActionResult<List<Restauranger>> GetRestaurants()
-        {            
-            return _context.Restauranger.ToList();
+        public ActionResult<List<Restaurant>> GetRestaurants()
+        {
+            return _context.Restaurant.Include(g => g.Place).ToList();
         }
 
 

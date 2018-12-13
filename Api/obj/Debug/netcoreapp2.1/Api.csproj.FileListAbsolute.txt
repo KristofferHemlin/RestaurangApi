@@ -12,3 +12,17 @@ C:\Users\Kristoffer Hemlin\source\repos\Api\Api\obj\Debug\netcoreapp2.1\Api.Asse
 C:\Users\Kristoffer Hemlin\source\repos\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
 C:\Users\Kristoffer Hemlin\source\repos\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
 C:\Users\Kristoffer Hemlin\source\repos\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projekt\net\RestaurangApi\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projekt\net\RestaurangApi\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projekt\net\RestaurangApi\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projekt\net\RestaurangApi\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projekt\net\RestaurangApi\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projekt\net\RestaurangApi\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projekt\net\RestaurangApi\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projekt\net\RestaurangApi\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projekt\net\RestaurangApi\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projekt\net\RestaurangApi\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projekt\net\RestaurangApi\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projekt\net\RestaurangApi\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projekt\net\RestaurangApi\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projekt\net\RestaurangApi\Api\obj\Debug\netcoreapp2.1\Api.pdb
